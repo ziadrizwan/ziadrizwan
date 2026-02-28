@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ziad Rizwan
-- 👀 I’m interested in Graphic Design and Unity Game Development.
-- 🌱 I’m currently learning Unity 3d
+- 👀 I’m interested in Graphic Design, Web Development and Unity Game Development.
+- 🌱 I’m currently learning Mern Stack Web Development.
 - 📫 You can contact me on my gmail. ziadrizwan1998@gmail.com
